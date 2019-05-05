@@ -1,0 +1,151 @@
+GENERAL RULES
+ 
+    1. Be respectful to all players out-of-character.
+    2. Any threats or intent to harm other players in the community or the server will result in a permanent ban.
+    3. Do not complain about staffing decisions in game or in global chat. Appeals or reports can be made on the forums.
+    4. In game currency and items (Cash, Printers, C4, Shipments, etc.) may not be sold or traded for real life items, currency or               
+       credits.    
+    6. The sale of dupes are excluded.
+    7. Do not spam anything of any kind.
+    8. Avoiding punishments by any means is forbidden.
+    9. A staff member has final say on all rule interpretations including those not explicitly stated in the rules.
+   10. Anyone caught baiting or encouraging others to violate rules will have an equal or greater punishment to the rule violation.
+   11. GOLDEN RULE: USE COMMON SENSE!
+ 
+ 
+RP RULES
+ 
+    1. Random Death Match (RDM)
+ 
+        1. Players directly harming your life, property and/or freedom may be killed without warning.
+        2. Raids and hits can be completed by killing without warning.
+        3. All other cases require a 10s+ second warning including a clear set of instructions delivered through typed chat and the                                  
+           10s+                  
+        4. time for validity.
+        5. It is the full responsibility of the warning originator to ensure all intended targets are aware of the warning outside the           
+           vicinity of their base (designated by the raidzone) should they ask
+        6. You can grant custom "everyone" warnings on your own leisure, bypassing the public duality to the rule above, but with an    
+           obvious risk
+        7. As for the base vicinity, if you choose to specify targets in your raid zone before warning, others not specified cannot
+           kill you. If you choose not to specify your targets, everyone receiving the warning in your raid zone can kill you.
+        8. If the target has completed the instructions in full, you may not kill them.
+        9. The consequence does not have to be detailed, all valid warnings are automatically a threat excluding 10 second demote    
+           warnings.
+           Ex: Leave or die you have 10 seconds!
+        11. If the receiving target of a warning and/or inducing action shows hostile intent OR ignorance of the instruction (2 second
+            leisure), such as but not limited to specifically un-holstering a weapon/red baton, escaping, un-safetying a weapon, etc.
+            then action can be made instant.
+            Examples of Inducing Actions: Stunsticking, Raping, Mugging, Pimp Slapping, Kidnapping, Tazing, Wanting, Damaging and so on
+ 
+      2. Metagaming
+ 
+          1.Your character may not use information beyond its knowledge and beyond its current life. This includes but is not limited
+            to any form of revenge killing, warrant, wanting, or demoting
+      3. Props and Entities
+ 
+          1. Prop/Entity/Door spamming, blocking, climbing, surfing, and minging altogether is not allowed.
+          2. Do not spawn props/move props inside of/on top of other players’ property, do not do it during raids, and do not do it
+             during an event
+ 
+    2. Basing and Building
+ 
+        1.You may have a textscreen building sign to isolate and protect yourself from the RP world provided you do not have any    
+          raidables, and you are not engaging in role-play. It must be removed when you are finished. Call staff if you are being
+          tampered with to the point where you cannot physically build.
+        2. The maximum amount of fading doors per base is 3.
+        3. Bases cannot force players to crouch, jump, crouch jump or precision walk at any point.
+        4. Fading bridges and sky-bases are not allowed.
+        5. Base entrances as well as the overall inner layout must be absolutely clear and concise. (I.E Mazes, Traps [if non-hostage
+           taker], Puzzles, Hidden Keypads, etc.)
+        6. You may not build anywhere in the vicinity of the main intersection point in front of spawn or the immediate sidewalks
+           directly adjacent the spawn entrances/exits for Danktown / C18
+        7. Building pointless large bases or other RP-restricting structures (i.e pointless things blocking more than 50% of the
+           road/sidewalk) will result in them being removed. Pointless is described as something that adds nothing to the RP value or
+           gameplay ~ some examples being Art, Houses with no purpose, Buildings with no purpose, Minge Builds, etc.
+        8. You cannot trap people or force anyone to pay a toll to exit an obstruction if you are not a hostage taking class.
+ 
+    3. RP Relation
+ 
+        1. You are free to protect players, along with their property, that you have an RP relationship with
+        2. You cannot RP Relate yourself to someone after a hostile action has been initiated in order to defend against said action.
+        3. RP Relation via job name must be completed both ways to be valid.
+            Ways to be RP related:
+                Job/Class – This takes precedence over all other RP relation. You must also follow all class rules before considering
+                            RP relation.
+                Owning the same base – You may only protect those within the vicinity of your base. This also applies to the Hotel and
+                                       all tenants within, every tenant shares ownership of the Hotel along with the Manager.
+                Company– A company can be made for $4,000 .
+                Hired/Working Together – You must be either hired through F4, or have your job name set as: /job "with person/org name
+                                         here*"
+                Customer Relationship – Whilst performing your transaction you have RP relation with your customer
+ 
+    4. Raiding and Mugging
+ 
+        You and those RP related with you must wait 10 minutes before performing these actions on the same person and/or base. This          
+        does not apply to Police Officers re-raiding bases for illegal infractions or players raiding out of jail by means of escaping.
+            1. Mugging
+                Maximum: $5,000
+                Must grant victims 10 seconds to oblige unless they are actively escaping, in which you can KOS them.
+                Any signs of hostile intent from the victim (including taking out/switching to weaponry) is KOS
+                You may not mug groups.
+                Ex: Drop 1k or die you have 10 seconds.
+            2. Raiding
+                You may only occupy a raid for 10 minutes. Once you’ve completed your raid, you must leave immediately.
+                Dying during a raid, coming back, and re-entering absolutely any part of the raid zone is disallowed as well as      
+                attempting to contribute to the success or failure of said raid from outside it. Defenders neglect this ruling.
+                You must be a raiding class to assist in any form of raid period
+                Destroying entities is not considered raiding
+                Absolutely anyone is KOS in the raid zone (defined as a 5 shoulder-to-shoulder length from any entrance/exit/wall ~          
+                props included). Government jobs have different raid zone guidelines below.
+                Leaving the raid zone at any point during the raid ends your raid participation with the exception of leaving to deal
+                with someone directly related to the base
+                If it is 100% obvious that there are no raidables in a base, you may not raid.
+                You may raid checkpoints.
+    5. Kidnapping
+ 
+            1. Ransom cannot exceed 50,000
+            2. Zip-tying or purchasing a hostage classifies it as your own property and they are raidables when left in your base
+            3. Only kidnapping classes may advertise (PM, Voice, Ad, Yell, and Chat) the sale of hostages a.k.a ransom
+            4. Only kidnapping classes may trap players in their base and/or constructions
+            5. If your hostage struggles out and attempts to clearly escape, you may KOS them. If you witness someone attempt to free    
+               your hostage they are KOS.
+            6. Zip-tying upon hearing the sound is assault relative to the target it's being aimed towards
+            7. As a hostage, you may KOS the kidnapper, the person owning the props holding you, and anyone related until you
+               successfully escape the facility/building/prop construction
+ 
+    6. Police Specific Rules:
+ 
+        1. Police must arrest instead of kill after giving a valid 10 second warning
+        2. Police may be asked to leave the inside of a base and/or stop impeding a door/exit legally with a customized demotion
+           warning.
+        3. Police must only want/warrant an individual off of definite and visible infractions. There are two exceptions: One includes       
+           advertisements/textscreens displaying explicit hit, illegal items (C4, Printers, etc.), and/or ransoms. The other is search  
+           warranting the bases of wanted players who are explicitly listed on a door or revealed via /go in the same vicinity.
+        4. Police must grant individuals clear warnings in chat during lockdowns
+        5. Police may arrest people (and any part of their body) past the PD lobby, blocking the second lobby/back of PD door, and/or
+           KOS them if they are armed with hostile intent
+        6. Police may KOS/AOS absolutely anyone holding weaponry in the raid zone. They may also AOS those bodyblocking entrances/exits
+           in the raidzone.
+        7. Police may KOS if they are assaulted by all means except Bugbait and an Arrest Baton (they do nothing), in which they must
+           arrest.
+        8. Police may AOS anyone carrying a hostage
+        9. Police may only build checkpoints if authorized by the Mayor command, not law. The checkpoint must include at lease one free
+           pathway through.
+        10. Police may not plant evidence or ask others to do so to incriminate
+        11. Police cannot raid (attacking) with criminals
+        12. If a player is wanted, the Police must make every attempt to arrest FIRST, unless/until they are armed with hostile intent.
+        13. Police may do warrant-able "base checks" of wanted individuals whose explicit name appears on the door, via /warrant
+            [Name], or that run behind prop barricades in bases
+        14. Police may fully sweep bases they find themselves needing to warrant
+        15. Do not grief players props (destroying of props you know will bring you 0 value)
+ 
+Vendors / Scamming
+ 
+        1. Do not scam regardless of whether or not you are a designated Vendor class. "Vendoring" encompasses all trade and
+           transactions even while not being a vendor job, done via the non-global (PM), (YELL), and (CHAT).
+        2. Instances where staff will NOT convene given the consistent lack of proof and unlikelihood (scamming still not allowed):
+        3. If you are scammed after free hand gambling with other players on the server without utilizing the gambling machines
+        4. If you are scammed via transactions not found in non-global chats like (ADVERT)
+        5. If you are scammed via transactions done in (VOICE)
+        6. Staff are also obligated to convene if they can find the proof to convict, like a confession or video proof for all that has
+           been listed except advert.
