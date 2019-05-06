@@ -3,8 +3,7 @@ GENERAL RULES
     1. Be respectful to all players out-of-character.
     2. Any threats or intent to harm other players in the community or the server will result in a permanent ban.
     3. Do not complain about staffing decisions in game or in global chat. Appeals or reports can be made on the forums.
-    4. In game currency and items (Cash, Printers, C4, Shipments, etc.) may not be sold or traded for real life items, currency or               
-       credits.    
+    4. In game currency and items (Cash, Printers, C4, Shipments, etc.) may not be sold or traded for real life items, currency or              credits.    
     6. The sale of dupes are excluded.
     7. Do not spam anything of any kind.
     8. Avoiding punishments by any means is forbidden.
@@ -19,11 +18,9 @@ RP RULES
  
         1. Players directly harming your life, property and/or freedom may be killed without warning.
         2. Raids and hits can be completed by killing without warning.
-        3. All other cases require a 10s+ second warning including a clear set of instructions delivered through typed chat and the                                  
-           10s+                  
+        3. All other cases require a 10s+ second warning including a clear set of instructions delivered through typed chat and the                10s+                  
         4. time for validity.
-        5. It is the full responsibility of the warning originator to ensure all intended targets are aware of the warning outside the           
-           vicinity of their base (designated by the raidzone) should they ask
+        5. It is the full responsibility of the warning originator to ensure all intended targets are aware of the warning outside the              vicinity of their base (designated by the raidzone) should they ask
         6. You can grant custom "everyone" warnings on your own leisure, bypassing the public duality to the rule above, but with an    
            obvious risk
         7. As for the base vicinity, if you choose to specify targets in your raid zone before warning, others not specified cannot
@@ -44,7 +41,7 @@ RP RULES
       3. Props and Entities
  
           1. Prop/Entity/Door spamming, blocking, climbing, surfing, and minging altogether is not allowed.
-          2. Do not spawn props/move props inside of/on top of other players’ property, do not do it during raids, and do not do it
+          2. Do not spawn props/move props inside of/on top of other playersâ€™ property, do not do it during raids, and do not do it
              during an event
  
     2. Basing and Building
@@ -70,19 +67,18 @@ RP RULES
         2. You cannot RP Relate yourself to someone after a hostile action has been initiated in order to defend against said action.
         3. RP Relation via job name must be completed both ways to be valid.
             Ways to be RP related:
-                Job/Class – This takes precedence over all other RP relation. You must also follow all class rules before considering
+                Job/Class â€“ This takes precedence over all other RP relation. You must also follow all class rules before considering
                             RP relation.
-                Owning the same base – You may only protect those within the vicinity of your base. This also applies to the Hotel and
+                Owning the same base â€“ You may only protect those within the vicinity of your base. This also applies to the Hotel and
                                        all tenants within, every tenant shares ownership of the Hotel along with the Manager.
-                Company– A company can be made for $4,000 .
-                Hired/Working Together – You must be either hired through F4, or have your job name set as: /job "with person/org name
+                Companyâ€“ A company can be made for $4,000 .
+                Hired/Working Together â€“ You must be either hired through F4, or have your job name set as: /job "with person/org name
                                          here*"
-                Customer Relationship – Whilst performing your transaction you have RP relation with your customer
+                Customer Relationship â€“ Whilst performing your transaction you have RP relation with your customer
  
     4. Raiding and Mugging
  
-        You and those RP related with you must wait 10 minutes before performing these actions on the same person and/or base. This          
-        does not apply to Police Officers re-raiding bases for illegal infractions or players raiding out of jail by means of escaping.
+        You and those RP related with you must wait 10 minutes before performing these actions on the same person and/or base. This             does not apply to Police Officers re-raiding bases for illegal infractions or players raiding out of jail by means of escaping.
             1. Mugging
                 Maximum: $5,000
                 Must grant victims 10 seconds to oblige unless they are actively escaping, in which you can KOS them.
@@ -90,13 +86,12 @@ RP RULES
                 You may not mug groups.
                 Ex: Drop 1k or die you have 10 seconds.
             2. Raiding
-                You may only occupy a raid for 10 minutes. Once you’ve completed your raid, you must leave immediately.
+                You may only occupy a raid for 10 minutes. Once youâ€™ve completed your raid, you must leave immediately.
                 Dying during a raid, coming back, and re-entering absolutely any part of the raid zone is disallowed as well as      
                 attempting to contribute to the success or failure of said raid from outside it. Defenders neglect this ruling.
                 You must be a raiding class to assist in any form of raid period
                 Destroying entities is not considered raiding
-                Absolutely anyone is KOS in the raid zone (defined as a 5 shoulder-to-shoulder length from any entrance/exit/wall ~          
-                props included). Government jobs have different raid zone guidelines below.
+                Absolutely anyone is KOS in the raid zone (defined as a 5 shoulder-to-shoulder length from any entrance/exit/wall ~                     props included). Government jobs have different raid zone guidelines below.
                 Leaving the raid zone at any point during the raid ends your raid participation with the exception of leaving to deal
                 with someone directly related to the base
                 If it is 100% obvious that there are no raidables in a base, you may not raid.
@@ -139,7 +134,7 @@ RP RULES
         14. Police may fully sweep bases they find themselves needing to warrant
         15. Do not grief players props (destroying of props you know will bring you 0 value)
  
-Vendors / Scamming
+   7. Vendors / Scamming
  
         1. Do not scam regardless of whether or not you are a designated Vendor class. "Vendoring" encompasses all trade and
            transactions even while not being a vendor job, done via the non-global (PM), (YELL), and (CHAT).
@@ -149,3 +144,5 @@ Vendors / Scamming
         5. If you are scammed via transactions done in (VOICE)
         6. Staff are also obligated to convene if they can find the proof to convict, like a confession or video proof for all that has
            been listed except advert.
+           
+           
